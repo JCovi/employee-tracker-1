@@ -7,7 +7,7 @@ This is a a command-line application to manage a company's employee database, us
 https://github.com/JCovi/employee-tracker-1
 
 ## Walkthrough Video Link
-https://watch.screencastify.com/v/WW3xf24v2zSfKyoD9RhC
+
 
 ## Installations
 
